@@ -1,5 +1,5 @@
 # Actuacion-en-clase
-Instituto universitario ITECSUR
+Instituto universitario ITECSUR.
 
 Desarrollo de software, 2do Semestre.
 
@@ -11,6 +11,6 @@ Lic. Darwin Chamba.
 
 Archivos de actuación en clase.
 
-1.Archivo creado en Git.
+1.Carpeta creada en Git.
 
 2.Documento de Git y Tinkercad.
