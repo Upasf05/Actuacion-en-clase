@@ -1,9 +1,7 @@
 # Actuacion-en-clase
 Instituto universitario ITECSUR
 
-Desarrollo de software
-
-2do Semestre.
+Desarrollo de software, 2do Semestre.
 
 Electrónica y sistemas digitales.
 
